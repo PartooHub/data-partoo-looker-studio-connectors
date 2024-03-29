@@ -107,5 +107,5 @@ Empower your business with the Partoo Presence & Review Analytics Connector and 
 - **business_name** (STRING): Name of the business.  
 
 [Partoo](https://www.partoo.co/en/)  
-[Privacy policy](PRIVACY.md)  
-[Terms of service](TOS.md)  
+[Privacy policy](privacy.pdf)  
+[Terms of service](tos.pdf)  
